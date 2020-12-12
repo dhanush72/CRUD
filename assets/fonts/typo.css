@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Circular Std";
+  src: url("./CircularStd-Medium/CircularStd-Medium.eot");
+  src: url("./CircularStd-Medium/CircularStd-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("./CircularStd-Medium/CircularStd-Medium.woff2") format("woff2"),
+    url("./CircularStd-Medium/CircularStd-Medium.woff") format("woff"),
+    url("./CircularStd-Medium/CircularStd-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./CircularStd-Book/CircularStd-Book.eot");
+  src: url("./CircularStd-Book/CircularStd-Book.eot?#iefix")
+      format("embedded-opentype"),
+    url("./CircularStd-Book/CircularStd-Book.woff2") format("woff2"),
+    url("./CircularStd-Book/CircularStd-Book.woff") format("woff"),
+    url("./CircularStd-Book/CircularStd-Book.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./CircularStd-Bold/CircularStd-Bold.eot");
+  src: url("./CircularStd-Bold/CircularStd-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./CircularStd-Bold/CircularStd-Bold.woff2") format("woff2"),
+    url("./CircularStd-Bold/CircularStd-Bold.woff") format("woff"),
+    url("./CircularStd-Bold/CircularStd-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
